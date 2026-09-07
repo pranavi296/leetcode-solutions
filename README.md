@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/pranavi296/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pranavi296/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
