@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pranavi296/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pranavi296/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/pranavi296/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/pranavi296/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/pranavi296/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0242-valid-anagram](https://github.com/pranavi296/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3340-check-balanced-string](https://github.com/pranavi296/leetcode-solutions/tree/master/3340-check-balanced-string) |
 ## Linked List
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pranavi296/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pranavi296/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pranavi296/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/pranavi296/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
